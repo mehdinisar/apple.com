@@ -1,0 +1,245 @@
+.head{
+    background-color:#313233; 
+} 
+.head ul{
+    margin-left: 200px ;
+    height: 40px;
+    word-spacing: 54px;
+    
+}
+.head li{
+   
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    text-align: center;
+    color: #d6d6d6 ;
+    font-size: 12px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 8px;
+}
+.text{
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+}
+#as {
+    height: 35px;
+    text-decoration: none;
+    color: #fcfdff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+#store
+{
+    height: 25px;
+    width: 27px;
+    position: relative;
+    top: -2px;
+}
+#as
+{
+    position: relative;
+    top: 10px;  
+    font-size: 15px;
+}
+.frst
+{
+    position: relative;
+    bottom: 7px;
+}
+.next {
+    background-color: #0071E3  ;
+    height: 47px;
+    text-decoration: none;
+    color: #fcfdff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+div.next #as:hover{
+    text-decoration: underline;
+}
+.next{
+    margin-top: -16px;
+}
+.next2 ul {
+    background-color: #f5f5f7;
+    height: 35px;
+    list-style: none;
+    margin-top: -3px;
+    text-decoration: none;
+    font-size: 22px;
+}
+.next2 a{
+text-decoration: none;
+}
+.next2 a:hover{
+    text-decoration: underline;
+}
+
+.next2 ul{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.next2 li{ 
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+}
+.material h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px ;
+}
+.material h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+    font-size: 20px ;
+    margin-top: -26px;
+}
+.learn{ 
+    text-align: center;
+    margin-right: 50px;
+}
+.learn ul{
+    list-style: none;
+}
+.learn li{
+    display: inline-block;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#2d6ae2 ;
+}
+.learn li:hover{
+    display: inline-block;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+.image{ 
+    height :"230px";
+     width :"400px";
+    margin-left: 200px;
+    
+}
+.secondportion{
+    background-color: black;
+}
+.text2{
+    text-align: center;
+    color: white;
+}
+.para
+{
+    background-color: #F5F5F7;
+    margin-top: -600px;
+}
+
+.airpicture{
+    margin-left: 200px;
+}
+.linkk
+{
+    text-decoration: none;
+    color: #959597;
+    
+}
+.list
+{
+    list-style-type: none;
+    line-height: 25px;
+    font-size: 12px;
+    margin-left: 58px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sixthpor
+{
+    position: relative;
+    left: 660px ;
+    bottom: 593px;
+}
+.services
+{
+    position: relative;
+    left: 200px;
+    bottom: 313px;
+}
+.appStore
+{
+    position: relative;
+    left: 400px;
+    bottom: 600px;  
+}
+.account
+{
+    position: relative;
+    left: 200px ;
+    bottom:620px ;
+}
+.Business{
+    position: relative;
+    left: 320px ;
+    bottom: 392px;
+    
+}
+.ed
+{
+    position: relative;
+    right: 97px ;
+    top: 12px;
+}
+.Health
+{
+    position: relative;
+    right: 97px ;
+    top: 12px;  
+}
+.gov
+{
+    position: relative;
+    right: 97px ;
+    top: 12px;  
+}
+.val
+{
+    position: relative;
+    left: 97px ;
+    bottom: 387px; 
+}
+.AbAp
+{
+    position: relative;
+    right: 96px ;
+    top: 13px;
+}
+#marg
+{
+    position: relative;
+    left: 70px;
+}
+.bottom-text{
+    margin-left: 100px;
+    color: #8D8D92;
+    font-size: 14px;
+    
+}
+.bottom-text2
+{
+    margin-left: 100px;
+    color: #8D8D92;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anchor
+{
+    text-decoration: none;
+    color: #1673D0;
+    font-family: Arial, Helvetica, sans-serif;
+    border-right: 1px;
+}
+#foot
+{
+    margin-top: -1310px;
+}
